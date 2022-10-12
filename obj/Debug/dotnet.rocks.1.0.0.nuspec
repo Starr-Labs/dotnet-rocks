@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>dotnet.rocks</id>
+    <version>1.0.0</version>
+    <authors>dotnet.rocks</authors>
+    <description>Package Description</description>
+    <packageTypes>
+      <packageType name="DotnetTool" />
+    </packageTypes>
+  </metadata>
+  <files>
+    <file src="C:\Development\dotnet.rocks\obj\DotnetToolSettings.xml" target="tools\net6.0\any\DotnetToolSettings.xml" />
+    <file src="C:\Development\dotnet.rocks\bin\Debug\net6.0\publish\dotnet.rocks.dll" target="tools\net6.0\any\dotnet.rocks.dll" />
+    <file src="C:\Development\dotnet.rocks\bin\Debug\net6.0\publish\dotnet.rocks.deps.json" target="tools\net6.0\any\dotnet.rocks.deps.json" />
+    <file src="C:\Development\dotnet.rocks\bin\Debug\net6.0\publish\dotnet.rocks.runtimeconfig.json" target="tools\net6.0\any\dotnet.rocks.runtimeconfig.json" />
+    <file src="C:\Development\dotnet.rocks\bin\Debug\net6.0\publish\dotnet.rocks.pdb" target="tools\net6.0\any\dotnet.rocks.pdb" />
+    <file src="C:\Development\dotnet.rocks\bin\Debug\net6.0\publish\FuzzySharp.dll" target="tools\net6.0\any\FuzzySharp.dll" />
+    <file src="C:\Development\dotnet.rocks\bin\Debug\net6.0\publish\System.ServiceModel.Syndication.dll" target="tools\net6.0\any\System.ServiceModel.Syndication.dll" />
+  </files>
+</package>

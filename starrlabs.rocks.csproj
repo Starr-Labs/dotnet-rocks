@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PackAsTool>true</PackAsTool>
+    <ToolCommandName>rocks</ToolCommandName>
+    <Version>1.0.0</Version>
+    <Authors>Irwin Williams</Authors>
+    <Company>Irwin Williams\Starr Labs</Company>
+    <Title>Starr Labs dotnet rocks search </Title>
+    <Product>Starr Labs dotnet rocks cli search tool</Product>
+    <PackageDescription>Simple tool to search dotnet rocks episodes via the command line</PackageDescription>
+    <PackageId>starr-labs-dotnet-rocks</PackageId>
+    <PackageOutputPath>./nupkg</PackageOutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FuzzySharp" Version="2.0.2" />
+    <PackageReference Include="System.ServiceModel.Syndication" Version="6.0.0" />
+  </ItemGroup>
+
+</Project>

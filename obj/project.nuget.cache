@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dV5ShidGLmPOaOurCd4e3STM2WkiXU43S3m+vDZuAI+kE1E2qInPLsQWY/hahz7w48xvuQkzj8q/iFVrelJQIw==",
+  "success": true,
+  "projectFilePath": "C:\\Development\\dotnet.rocks\\starrlabs.rocks.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iwilliams\\.nuget\\packages\\fuzzysharp\\2.0.2\\fuzzysharp.2.0.2.nupkg.sha512",
+    "C:\\Users\\iwilliams\\.nuget\\packages\\system.servicemodel.syndication\\6.0.0\\system.servicemodel.syndication.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

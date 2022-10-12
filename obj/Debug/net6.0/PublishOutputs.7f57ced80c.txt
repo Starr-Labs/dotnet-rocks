@@ -1,0 +1,7 @@
+C:\Development\dotnet.rocks\bin\Debug\net6.0\publish\starrlabs.rocks.exe
+C:\Development\dotnet.rocks\bin\Debug\net6.0\publish\starrlabs.rocks.dll
+C:\Development\dotnet.rocks\bin\Debug\net6.0\publish\starrlabs.rocks.deps.json
+C:\Development\dotnet.rocks\bin\Debug\net6.0\publish\starrlabs.rocks.runtimeconfig.json
+C:\Development\dotnet.rocks\bin\Debug\net6.0\publish\starrlabs.rocks.pdb
+C:\Development\dotnet.rocks\bin\Debug\net6.0\publish\FuzzySharp.dll
+C:\Development\dotnet.rocks\bin\Debug\net6.0\publish\System.ServiceModel.Syndication.dll
