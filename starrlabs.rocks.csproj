@@ -15,7 +15,7 @@
     <PackageDescription>Simple tool to search dotnet rocks episodes via the command line</PackageDescription>
     <PackageId>starr-labs-dotnet-rocks</PackageId>
     <PackageOutputPath>./nupkg</PackageOutputPath>
-    <license type="expression">MIT</license>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
 
   <ItemGroup>
